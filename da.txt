@@ -1,0 +1,130 @@
+{
+  "X-UA-Compatible": "IE=edge",
+  "al:android:app_name": "YouTube",
+  "al:android:package": "com.google.android.youtube",
+  "al:android:url": "vnd.youtube://www.youtube.com/watch?v=YKjEt5FdPBU&t=130s&feature=applinks",
+  "al:ios:app_name": "YouTube",
+  "al:ios:app_store_id": "544007664",
+  "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=YKjEt5FdPBU&t=130s&feature=applinks",
+  "al:web:url": "http://www.youtube.com/watch?v=YKjEt5FdPBU&t=130s&feature=applinks",
+  "author": "",
+  "availability": "",
+  "canonical": "https://www.youtube.com/watch?v=YKjEt5FdPBU",
+  "charset": "",
+  "datePublished": "2023-01-13T16:41:10-08:00",
+  "description": "This YouTube video demonstrates how to use Docker and fly.io to host a PocketBase instance. The video starts by showing how to set up a PocketBase container ...,This YouTube video demonstrates how to use Docker and fly.io to host a PocketBase instance. The video starts by showing how to set up a PocketBase container ...",
+  "domain": "https://www.youtube.com",
+  "duration": "PT3M26S",
+  "favicons": [
+    {
+      "href": "https://www.youtube.com/s/desktop/f722e545/img/favicon.ico",
+      "rel": "shortcut icon",
+      "type": "image/x-icon"
+    },
+    {
+      "href": "https://www.youtube.com/s/desktop/f722e545/img/favicon_32x32.png",
+      "rel": "icon",
+      "sizes": "32x32"
+    },
+    {
+      "href": "https://www.youtube.com/s/desktop/f722e545/img/favicon_48x48.png",
+      "rel": "icon",
+      "sizes": "48x48"
+    },
+    {
+      "href": "https://www.youtube.com/s/desktop/f722e545/img/favicon_96x96.png",
+      "rel": "icon",
+      "sizes": "96x96"
+    },
+    {
+      "href": "https://www.youtube.com/s/desktop/f722e545/img/favicon_144x144.png",
+      "rel": "icon",
+      "sizes": "144x144"
+    }
+  ],
+  "fb:app_id": "87741124305",
+  "genre": "Science & Technology",
+  "headings": [],
+  "height": "720,720",
+  "identifier": "YKjEt5FdPBU",
+  "image": "",
+  "imgTags": [],
+  "interactionCount": "11706",
+  "isFamilyFriendly": "true",
+  "jsonld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "item": {
+            "@id": "http://www.youtube.com/@guibibeau",
+            "name": "Gui Bibeau"
+          },
+          "position": 1
+        }
+      ]
+    }
+  ],
+  "keywords": "видео, поделиться, телефон с камерой, телефон с видео, бесплатно, загрузить",
+  "lang": "ru-RU",
+  "name": "Is this better than Firebase? Deploy PocketBase in 3 minutes.",
+  "og:description": "This YouTube video demonstrates how to use Docker and fly.io to host a PocketBase instance. The video starts by showing how to set up a PocketBase container ...",
+  "og:determiner": "",
+  "og:image": "https://i.ytimg.com/vi/YKjEt5FdPBU/maxresdefault.jpg",
+  "og:image:height": "720",
+  "og:image:secure_url": "",
+  "og:image:type": "",
+  "og:image:width": "1280",
+  "og:locale": "",
+  "og:locale:alternate": "",
+  "og:site_name": "YouTube",
+  "og:title": "Is this better than Firebase? Deploy PocketBase in 3 minutes.",
+  "og:type": "video.other",
+  "og:url": "https://www.youtube.com/watch?v=YKjEt5FdPBU",
+  "og:video:height": "720",
+  "og:video:secure_url": "https://www.youtube.com/embed/YKjEt5FdPBU?start=130",
+  "og:video:type": "text/html",
+  "og:video:url": "https://www.youtube.com/embed/YKjEt5FdPBU?start=130",
+  "og:video:width": "1280",
+  "origin-trial": "ApvK67ociHgr2egd6c2ZjrfPuRs8BHcvSggogIOPQNH7GJ3cVlyJ1NOq/COCdj0+zxskqHt9HgLLETc8qqD+vwsAAABteyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJQcml2YWN5U2FuZGJveEFkc0FQSXMiLCJleHBpcnkiOjE2OTUxNjc5OTksImlzU3ViZG9tYWluIjp0cnVlfQ==",
+  "playerType": "HTML5 Flash",
+  "price": "",
+  "priceCurrency": "",
+  "regionsAllowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+  "requestUrl": "https://www.youtube.com/watch?v=YKjEt5FdPBU&t=130s",
+  "requiresSubscription": "False",
+  "responseBody": "",
+  "robots": "",
+  "source": "",
+  "theme-color": "rgba(255, 255, 255, 0.98)",
+  "title": "Is this better than Firebase? Deploy PocketBase in 3 minutes. - YouTube",
+  "twitter:account_id": "",
+  "twitter:app:id:googleplay": "com.google.android.youtube",
+  "twitter:app:id:ipad": "544007664",
+  "twitter:app:id:iphone": "544007664",
+  "twitter:app:name:googleplay": "YouTube",
+  "twitter:app:name:ipad": "YouTube",
+  "twitter:app:name:iphone": "YouTube",
+  "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=YKjEt5FdPBU",
+  "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=YKjEt5FdPBU&t=130s&feature=applinks",
+  "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=YKjEt5FdPBU&t=130s&feature=applinks",
+  "twitter:card": "player",
+  "twitter:creator": "",
+  "twitter:creator:id": "",
+  "twitter:description": "This YouTube video demonstrates how to use Docker and fly.io to host a PocketBase instance. The video starts by showing how to set up a PocketBase container ...",
+  "twitter:image": "https://i.ytimg.com/vi/YKjEt5FdPBU/maxresdefault.jpg",
+  "twitter:image:alt": "",
+  "twitter:player": "https://www.youtube.com/embed/YKjEt5FdPBU?start=130",
+  "twitter:player:height": "720",
+  "twitter:player:stream": "",
+  "twitter:player:width": "1280",
+  "twitter:site": "@youtube",
+  "twitter:site:id": "",
+  "twitter:title": "Is this better than Firebase? Deploy PocketBase in 3 minutes.",
+  "twitter:url": "https://www.youtube.com/watch?v=YKjEt5FdPBU",
+  "uploadDate": "2023-01-13T16:41:10-08:00",
+  "url": "https://www.youtube.com/watch?v=YKjEt5FdPBU&t=130s",
+  "width": "1280,1280"
+}
