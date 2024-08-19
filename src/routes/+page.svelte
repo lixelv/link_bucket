@@ -130,7 +130,7 @@
 						<DropdownMenu.Group>
 							<DropdownMenu.Label>Actions</DropdownMenu.Label>
 							<DropdownMenu.Separator />
-							<Dialog.Root>
+							<!-- <Dialog.Root>
 								<Dialog.Trigger
 									class="relative flex w-full cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none hover:bg-accent hover:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50"
 									><Pencil class="mr-2 h-4 w-4" />Edit</Dialog.Trigger
@@ -145,7 +145,7 @@
 										>
 									</Dialog.Header>
 								</Dialog.Content>
-							</Dialog.Root>
+							</Dialog.Root> -->
 							<DropdownMenu.Item
 								on:click={() => {
 									pb.collection('links').delete(item.id);
